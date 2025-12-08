@@ -3,3 +3,4 @@
 ## JavaScript Fundamentals - Part 1
 
 - Hello World
+- Linking a JavaScript File

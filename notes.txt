@@ -1,0 +1,2 @@
+What is JavaScript?
+    JavaScript is a High-Level, Object-Oriented, Multi-Paradigm Programming Language.

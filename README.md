@@ -4,3 +4,4 @@
 
 - Hello World
 - Linking a JavaScript File
+- Values and Variables
